@@ -1,0 +1,16 @@
+.nav-item {
+  color: #ffffff8c;
+  text-decoration: none;
+  margin-left: 1rem;
+}
+
+.nav-item:hover {
+  color: #ffffffbf;
+}
+
+.active {
+  color: #fff;
+}
+.active:hover {
+  color: #fff;
+}

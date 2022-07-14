@@ -1,0 +1,15 @@
+.card {
+  position: relative;
+}
+.feature {
+  position: absolute;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 4rem;
+  width: 4rem;
+  font-size: 2rem;
+  top: -32px;
+  left: 50%;
+  transform: translateX(-50%);
+}
